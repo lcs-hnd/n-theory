@@ -1,0 +1,3 @@
+the square root of a number  x is a number y such that y^2 = x
+the square root of 16 is 4 such that 4^2 = 16
+

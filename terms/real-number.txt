@@ -1,0 +1,5 @@
+# a number that can be used to measure a continuous one dimensional quantity
+e.g. length, temperature, duration
+
+continuous meaning such that pairs of values can have arbitrarily small differences
+e.g. infinitely small decimal expansions
