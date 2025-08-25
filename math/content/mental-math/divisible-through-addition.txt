@@ -1,0 +1,5 @@
+given a number such as 117, it becomes difficult to wrap your head around its divisibles
+you can instead add up the numbers 1 + 1 + 7 and you get 9 and that 
+tells you that it's divisible by 3 since 9 is divisible by 3
+
+not sure what this is called

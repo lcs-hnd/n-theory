@@ -1,0 +1,23 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.lof
+*.fdb_latexmk
+*.lot
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+
+# Temporary LaTeX omission
+*.tex
+
+# PDF output (often excluded so only the source is tracked)
+*.pdf
+
+# Local folders
+temp/
+
+

@@ -1,0 +1,5 @@
+180 = 2 x 2 x 3 x 3 x 5 <--- factor into prime factors efficiently
+
+rewrite exponent as sum where one of the addends is a multiple of the index
+
+addition of exponents thru base multiplication

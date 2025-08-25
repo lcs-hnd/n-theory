@@ -1,0 +1,51 @@
+180 = 2 x 2 x 3 x 3 x 5 <--- factor into prime factors efficiently
+
+2^ 2 & 3^2 left with 5 
+
+so 2 x 3 = 6
+
+6sqrRoot(5) is the answer
+
+what if we have variables?
+
+112a^6
+
+break down into
+
+8 / 14
+2 / 4 // 14
+2a^6 / 4a^6 / 2a^6 / 7a^6
+2a^6 / 2a^3 / sR(2) / a^3 / sR(7) / a^3
+sr(2) / a^3 / sr(2) / a^3/2 / sr(2) / a^3 / sr(7) / a^3
+2 / a^27 / sr(14) 
+
+2a^27sr(2)sr(7)
+
+4 28
+2 2 7 4 
+2 2 2 2 7
+{2^4 7 a^6}
+4 sqrt sqrt7 a^3
+4a^3sqrt7
+2 5 x^4
+
+sqrt{30b^5}
+different step
+rewrite exponent as sum where one of the addends is a multiple of the index <----
+sqrt{30b^(4+1)}
+sqrt{30b^4 * b^1}
+sqrt{30b^4 * b}
+sqrt{30b^4 * b}
+sqrt{b^4} * sqrt{30b}
+b^2 * sqrt{30b}
+
+addition of exponents thru base multiplication
+
+sq 39y^9
+sq 3 13 y^8+1
+y^4sq39y 
+
+sq 108a^6
+a^3sq 3 36 
+6-- sq 3 
+6a^3 sq3

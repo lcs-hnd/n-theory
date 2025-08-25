@@ -1,0 +1,68 @@
+scientific notation
+
+subscript characters/equations such as x = x_o + Vt + ½ at2
+
+solving for time
+
+simplifying superscripts (superscript relations and rules)
+
+rounding to certain significant figures (precision loss)
+
+solving for λ (lambda)
+
+convert units (km^2 to m^2)
+
+solve for acceleration give equation for position and time range 
+- (x=2t^3−12t^2+25t solve for acceleration at t=5)
+
+solve for exponents value (10^a = 17.3)
+
+determine the components of a force parallel and perpendicular to the direction of motion given weight (N) and angle
+- (box of weight 15.0 N and 23 degree incline) 
+
+PEMDAS
+
+use EE/Exp key on a scientific calculator to represent (x10) for numbers expressed in s. notation
+- perform (dfrag{2.5 * 10^3}{8.6 * 10^-5})
+
+calculating area of different shapes
+
+understand scientific notation, express 8.26 x 10^-3 in decimal form
+
+determine an induced electromotive force in a loop at a specific time during its motion
+- (uniformly rotating circular loop, loop with area of 0.5m^2, 10 turns of wire, constant & uniform 0.7 T magnetic field) (electromotive force 5 seconds into the motion)
+
+determine an electric field in an infinite cylinder of radius R and uniform surface charge density
+- utilize gauss' law, assume a positive surface charge
+
+système international d'unités (SI), or the International System of Units, allows for technical info to be communicated across different mediums. **multiples** and **submultiples** are used when reducing numbers for convenience. they are obtained by combining the name of the unit the prefixes deka, hecto, kilo, deci, centi, and milli
+- convert units throughout SI (11 Amperes into hectoAmperes)
+
+convert zorgs into tubs
+
+obtain cross products of given vectors and degrees (alongside their relation to axis)
+- (A⃗ : magnitude 10, B⃗ : magnitude 20, both 10 degrees to the positive x axis) 
+
+convert 1,000,000m^3 into hm^3
+
+calculator scalar products of given vectors
+- (A⃗ =−3x−2y+z, B⃗ =2x+y−5z)
+
+scaling numbers given units
+- solve for milligrams of dye needed (solution needs 34mg in 250mL of water, if using only 95mL of water how much mg?)
+
+simplify dfrag{a^-2}{a^6}
+
+solve for hydronium ion concentration in a solution given pH, quantity, and equation used to express its relationship between pH and ion concentration (in units of molarity, M)
+- (pH = log[H_3O^+], 650.0mL, pH of 6.85)
+
+solve for R
+- (PV = nRT)
+
+solve for x given log involvement
+- (log_6(3x^2) = 3
+
+express a given value (with fractional units) in a given fractional unit 
+- (0.5dfrag{m}{s^2} expressed in dfrag{m}{min^2}
+
+convert 1hm^3 into m^3
