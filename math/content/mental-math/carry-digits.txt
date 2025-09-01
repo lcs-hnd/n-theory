@@ -1,0 +1,7 @@
+when dividing or multiplying large numbers, often carry digits are generated
+e.g. 68 + 59 = 127, thus you carry 1
+
+encode the carry as a tag as +1, mentally attached to the next column
+without storing the interim sum...
+aka, instead of filling memory slots with 127, you use one slot for the carry 1 tag
+and the rest is offloaded into working notations or visualization

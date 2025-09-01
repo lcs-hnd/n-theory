@@ -1,0 +1,7 @@
+- complement / distance model :efficient for small gaps
+ask yourself how far is x from y?
+
+e.g. how far is 8.09 from 9.57?
+from 8.09 to 9.00 it's 0.91
+from 9.00 to 9.57 it's 0.57
+this totals to 1.48

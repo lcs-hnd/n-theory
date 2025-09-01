@@ -1,0 +1,3 @@
+7*24 = 168 
+- the number of hours in a week
+- days in a week * hours in a day = total hours in a week

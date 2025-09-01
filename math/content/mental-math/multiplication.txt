@@ -1,0 +1,9 @@
+96*22 is best solved with cross multiplication
+- if presented via verbal math instead express things differently
+//
+(100-4) * 22
+(100*22) - (4*22)
+2200-88
+2112
+//
+

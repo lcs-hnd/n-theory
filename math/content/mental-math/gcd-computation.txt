@@ -1,0 +1,7 @@
+two digit numbers
+- checking small primes
+2: even numbers
+3: sum of digits divisible by 3
+5: ends with 0 or 5
+7: double the last digit, subtract for the rest, divisible by 7?
+11: difference between sum of digits in odd/even positions divisible by 11

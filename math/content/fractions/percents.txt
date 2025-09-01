@@ -1,0 +1,5 @@
+given shape with parts representing a whole, express a fraction in percent
+- 3/10 30% 
+- 11/25 (x4 to get denominator to 100) 44%
+
+percent, translates into per hundred. one part in every hundred.

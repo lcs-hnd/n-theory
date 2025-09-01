@@ -1,0 +1,25 @@
+- pre mem building blocks
+23*17 into a chunk (20 + 3)(20 - 3) = 400 - 9
+
+- chunking + compression
+rather than sotring all intermediate digits, they're compressed into results
+like meaningful patterns
+e.g. carry7 as a tag rather than a string of numbers
+
+- use of codes
+phonological loops such as silently rehearsing intermediate numbers
+visuospatial imagery like seeing columns of digits or shapes of numbers
+rythm or melodic codes like tapping out carries
+
+- attention control drills
+practicing holding partial results while switching focus rapidly
+e.g. solving while being distracted : trains refresh strength before decay
+
+- offloading complexity into rules
+memorizing shortcuts (e.g. when you need to multiply by 5, just halve and multiply by 10)
+
+layered strategies, automaticity, and chunking
+
+** decay
+** refresh
+** carries 

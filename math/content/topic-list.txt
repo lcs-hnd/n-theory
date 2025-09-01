@@ -3,3 +3,16 @@
 rewrite exponent as sum where one of the addends is a multiple of the index
 
 addition of exponents thru base multiplication
+
+gcd computation
+
+rounding
+
+decomposition
+
+scientific notation
+
+abacus/soraban?
+- flash variants?
+
+
