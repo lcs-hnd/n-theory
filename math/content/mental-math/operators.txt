@@ -1,0 +1,48 @@
+- multiplication
+
+// 2 digit multiplication
+
+(symmetry in 2by2)
+if both numbers have the same first digit &
+their last digits add up to 10
+
+e.g. 42 * 48
+first digits: 4 = 4
+last digits add up to 10: 2 + 8 = 10
+
+if both conditions are met apply the trick
+multiply the first digit by its next higher number
+4 -> 5 // 4 * 5 = 20
+multiply the last digits
+2 * 8 = 16
+combine the results
+42 * 48 = 20|16 // 2016
+
+e.g. 34 * 36 = 3*4|4*6 // 1224
+e.g. 83 * 87 = 8*9|3*7 // 7221
+
+// multiplying any number by 5
+
+multiply by 10 then divide by 2
+
+24 * 10 = 240
+240 / 2 = 120 
+24 * 5 = 120
+
+you can reverse the order for certain numbers
+as it becomes faster that way at times 
+
+// multiplying any number by 11 
+
+add the first and second digits together &
+place the result between the digits of the number
+e.g. 23 * 11
+2 + 3 = 5 // 2(5)3
+
+if the sum of the digits is greater than 9 carry over the tens 
+e.g. 57 * 11 = 5(5 + 7)7 -> 5(12)7 -> 627
+
+
+
+
+
